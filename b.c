@@ -1,1 +1,3 @@
-first commit
+void b_second_commit()
+{
+}
